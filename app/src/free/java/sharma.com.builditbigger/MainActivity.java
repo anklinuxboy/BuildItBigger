@@ -23,11 +23,4 @@ public class MainActivity extends BaseActivity {
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
     }
-
-    @OnClick(R.id.joke_button)
-    public void displayToast() {
-        JavaJokes jokes = new JavaJokes();
-        String joke = jokes.getJoke();
-        Toast.makeText(this, joke, Toast.LENGTH_SHORT).show();
-    }
 }
