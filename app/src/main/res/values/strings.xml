@@ -2,4 +2,6 @@
     <string name="app_name">BuildItBigger</string>
     <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
     <string name="joke_button_text">Tell A Joke!</string>
+    <string name="progress_bar_title">Loading</string>
+    <string name="network_not_available">Network not available, cannot fetch jokes</string>
 </resources>

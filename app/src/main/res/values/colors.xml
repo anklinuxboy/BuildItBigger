@@ -4,4 +4,5 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="main_background">#9CCC65</color>
+    <color name="joke_activity_background">#00897B</color>
 </resources>
